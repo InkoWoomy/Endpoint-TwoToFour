@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "odcoucHQElZhbkA9bUr7dR5UPH7AgI6N6FxyUMIB/sE=",
+  "Source": "Endpoint-TwoToFour",
+  "BasePath": "_content/Endpoint-TwoToFour",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
